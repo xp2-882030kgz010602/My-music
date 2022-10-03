@@ -33,3 +33,5 @@ Interpolation=Nearest Neighbor
 Quality=100%
 Everything else default
 NOTE: Piano_solo_1.mp4 is not included in the download because it is too big to put on GitHub. You will need to generate it yourself.
+=====
+The version of Piano_solo_1.mp4 on YouTube uses the first uploaded version of Piano_solo_1.mscz.
