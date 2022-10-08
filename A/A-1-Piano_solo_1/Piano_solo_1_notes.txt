@@ -7,7 +7,7 @@ Credit to Bach for most of the melodies in here; the C#m and Fm sections draw he
 Also included is the original copy of the composition; I wrote this one on paper. I have had to redact personal information.
 =====
 The manuscript is filled with hilariously misspelled notes. I have attempted to correct note spellings when copying the manuscript into MuseScore.
-I did not understand why notes were spelled the way they did; I instead tried to spell notes in a way that minimized the number of natural signs used or something like that.
+I did not understand why notes were spelled the way they were; I instead tried to spell notes in a way that minimized the number of natural signs used or something like that.
 Or maybe it was "avoid using two different accidentals on the same note in the same measure, like F# then Fb"? I honestly don't remember.
 If I remember correctly, I had also assumed that accidentals on a note applied to ALL instances of that note on the same clef, even if they were on a different octave.
 =====
