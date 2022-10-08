@@ -26,6 +26,7 @@ Resolution=720p
 Note screen time=6000
 Resource pack=xp2
 Palette=xp2
+Randomise color order=0
 crf=0
 Everything else default
 Piano_solo_1.mp4 created with Shotcut 21.05.18 using Piano_solo_1_Zenith.mp4, Piano_solo_1.mlt, and Piano_solo_1.mp3 using these settings:
