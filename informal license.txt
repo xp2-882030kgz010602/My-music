@@ -1,0 +1,10 @@
+This is an informal license. It won't be exact. I don't like that it's not exact, but when I try to make it exact, it turns into purple prose.
+=====
+This license applies to my music where possible. I don't know if I can put them on arrangements of modern pieces.
+=====
+You are free to use and modify this music however you want. But if you share it with someone else (places like YouTube count), you need to do the following.
+*Attach a LINK to this license. I sometimes realize that something here is unclear and need to clarify.
+An attached license won't update itself, but a link will point to the new version just fine without anyone needing to do anything.
+*Specify how to reproduce all reproducible files. If a file was generated from other files using a computer program, it is reproducible.
+In particular, no one should have to pay for a piece of software to reproduce a file, even if they can download a copy of the file.
+*Give credit to the author whose music you're using.
