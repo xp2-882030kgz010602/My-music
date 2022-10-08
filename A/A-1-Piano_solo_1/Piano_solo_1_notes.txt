@@ -33,6 +33,8 @@ Piano_solo_1.mp4 created with Shotcut 21.05.18 using Piano_solo_1_Zenith.mp4, Pi
 Interpolation=Nearest Neighbor
 Quality=100%
 Everything else default
-NOTE: Piano_solo_1.mp4 is not included in the download because it is too big to put on GitHub. You will need to generate it yourself.
+=====
+Download links:
+Piano_Solo_1.mp4=https://www.filehosting.org/file/details/16269786/Piano_solo_1.mp4 
 =====
 The version of Piano_solo_1.mp4 on YouTube uses the first uploaded version of Piano_solo_1.mscz.
