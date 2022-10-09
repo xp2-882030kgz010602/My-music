@@ -5,6 +5,7 @@ This is technically my third piano composition; the first one was written in 201
 I believe that this composition was written in late 2015 or so.
 Credit to Bach for most of the melodies in here; the C#m and Fm sections draw heavily from his C#m fugue and Em prelude from the first book of his well-tempered clavier.
 Also included is the original copy of the composition; I wrote this one on paper. I have had to redact personal information.
+You can download it here: https://www.filehosting.org/file/details/16269799/Piano_Solo_1%20manuscript.pdf
 =====
 The manuscript is filled with hilariously misspelled notes. I have attempted to correct note spellings when copying the manuscript into MuseScore.
 I did not understand why notes were spelled the way they were; I instead tried to spell notes in a way that minimized the number of natural signs used or something like that.
