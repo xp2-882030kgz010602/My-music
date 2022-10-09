@@ -4,6 +4,7 @@ You may notice that there's a key signature change in the MSCZ that wasn't in th
 No notes were actually changed, but since I had decided to "randomly" enter E major for a bit, that I might as well also change the key signature too in MuseScore.
 Note that I still followed the "all octaves" accidental convention that I discussed with Piano solo 1.
 At least I apparently didn't try to "optimize accidentals" the way I did when writing down Piano solo 1.
+You can download the manuscript here: https://www.filehosting.org/file/details/16269802/Piano_Solo_2%20manuscript.pdf
 =====
 Inspired by a (single-voice) recorder composition written by a classmate, I had decided to try writing something polyphonic, because the idea sounded cool to me.
 If I remember correctly, the first few measures were taken from that composition, with some rhythm changes, but the rest is me.
@@ -17,7 +18,7 @@ I believe that quarter note=120 is close to what I had imagined when I originall
 =====
 Piano_solo_2.mid, Piano_solo_2.mp3, and Piano_solo_2.pdf created with MuseScore 2.2.1 from Piano_solo_2.mscz with default settings (including the default soundfont)
 Piano_solo_2_Zenith.mp4 created from Piano_solo_2.mid with Zenith 2.1.5 using these settings:
-Resolution=720p
+Resolution=2900x2420
 Note screen time=6000
 Resource pack=xp2
 Palette=xp2
@@ -28,5 +29,6 @@ Piano_solo_2.mp4 created with Shotcut 21.05.18 using Piano_solo_2_Zenith.mp4, Pi
 Interpolation=Nearest Neighbor
 Quality=100%
 Everything else default
+thumbnail.png created with Shotcut 21.05.18 using Piano_solo_2_Zenith.mp4, Piano_solo_2.mlt, and Piano_solo_2.mp3 exporting at frame 1:55:47.
 =====
 The version of Piano_solo_2.mp4 on YouTube uses the first uploaded version of Piano_solo_2.mscz.
