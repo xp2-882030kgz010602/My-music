@@ -17,5 +17,6 @@ Quality=100%
 Everything else default
 =====
 Download links:
+Etude 1-2.mp4=https://www.filehosting.org/file/details/16269796/Etude%201-2.mp4
 =====
 The version of Etude 1-2.mp4 on YouTube uses the first uploaded version of Etude 1-2.mscz.
