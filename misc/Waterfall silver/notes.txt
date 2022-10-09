@@ -1,0 +1,38 @@
+This is a remix of my Waterfall Etude done by silver.
+=====
+Upon a friend's suggestion, we found some music producers who remixed the etude and sent over the MIDIs (see my informal license).
+Unfortunately, we both forgot that you also need a soundfont to produce the audio, and haven't been able to get said soundfont.
+This means that the MP3s they sent us are not reproducible. This is why the next section exists.
+=====
+The MIDIs they sent us are in the Midis folder. Using Domino (this version specifically: https://github.com/Hans5958/Domino-English-Translation)
+, I merged the midis into combined.mid, and opened that in MuseScore 2.2.1 and cranked the import resolution as high as it would go.
+I then did some editing in MuseScore, and saved the result as all.mscz. I tried to make this sound like the MP3s they sent over to us.
+At this point, I feel like it goes against my ideals to not send over the MP3s too, so they can be found in the references folder.
+Please excuse the weird names. I never got a V1.mp3 or V1.wav, except for "waterfall  silver.mp3", which I guess could be considered to be a V1.mp3.
+Note that V2.wav and V3.wav have had to be compressed to get them onto GitHub.
+=====
+all.mid and all.mp3 created with MuseScore 2.2.1 from all.mscz with default settings (including the default soundfont)
+all_Zenith.mp4 created from all.mid with Zenith 2.1.5 using these settings:
+Resolution=720p
+Note screen time=6000
+Resource pack=xp2
+Palette=xp2
+Randomise color order=0
+crf=0
+Background image=pexels-snapwire-6832.jpg; modified from https://www.pexels.com/photo/waterfall-nature-6832/ (author unknown)
+Everything else default
+all.mp4 created with Shotcut 21.05.18 using all_Zenith.mp4, all.mlt, and all.mp3 using these settings:
+Interpolation=Nearest Neighbor
+Quality=100%
+Everything else default
+=====
+The background appears to have gotten jpg'd. Oops. Try the PNG instead.
+Note to self: Don't use JPG images as backgrounds. They will change on you.
+=====
+Download links
+all.mp4=https://www.filehosting.org/file/details/16269787/all.mp4
+all_Zenith.mp4=https://www.filehosting.org/file/details/16269788/all_Zenith.mp4
+resources/V2.wav=https://www.filehosting.org/file/details/16269789/V2.wav
+resources/V3.wav=https://www.filehosting.org/file/details/16269790/V3.wav
+=====
+The version of all.mp4 on YouTube uses the first uploaded version of all.mscz.
