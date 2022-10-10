@@ -1,0 +1,213 @@
+<?xml version="1.0" standalone="no"?>
+<mlt LC_NUMERIC="C" version="7.1.0" title="Shotcut version 21.05.18" producer="main_bin">
+  <profile description="automatic" width="2900" height="2176" progressive="1" sample_aspect_num="1" sample_aspect_den="1" display_aspect_num="16" display_aspect_den="9" frame_rate_num="25" frame_rate_den="1" colorspace="709"/>
+  <playlist id="main_bin">
+    <property name="xml_retain">1</property>
+  </playlist>
+  <producer id="black" in="00:00:00.000" out="01:06:00.000">
+    <property name="length">01:06:00.040</property>
+    <property name="eof">pause</property>
+    <property name="resource">0</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgba</property>
+    <property name="set.test_audio">0</property>
+  </producer>
+  <playlist id="background">
+    <entry producer="black" in="00:00:00.000" out="01:06:00.000"/>
+  </playlist>
+  <producer id="producer0" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">../../backgrounds/waterfall.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2022-10-09T16:49:35</property>
+    <property name="shotcut:hash">16bfd213aef5e7da9adeb67f5e1d017b</property>
+    <property name="shotcut:caption">waterfall.png</property>
+    <property name="xml">was here</property>
+  </producer>
+  <playlist id="playlist0">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">V1</property>
+    <entry producer="producer0" in="00:00:00.000" out="01:06:00.000"/>
+  </playlist>
+  <chain id="chain0" out="00:06:35.960">
+    <property name="length">9900</property>
+    <property name="eof">pause</property>
+    <property name="resource">./waterfall ink 3.wav</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">8c94f27425cef1bbc69a44519ec80fbd</property>
+    <property name="shotcut:caption">waterfall ink 3.wav</property>
+  </chain>
+  <chain id="chain1" out="00:06:35.960">
+    <property name="length">9900</property>
+    <property name="eof">pause</property>
+    <property name="resource">./waterfall ink 3.wav</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">8c94f27425cef1bbc69a44519ec80fbd</property>
+    <property name="shotcut:caption">waterfall ink 3.wav</property>
+    <property name="xml">was here</property>
+  </chain>
+  <chain id="chain2" out="00:06:35.960">
+    <property name="length">9900</property>
+    <property name="eof">pause</property>
+    <property name="resource">./waterfall ink 3.wav</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">8c94f27425cef1bbc69a44519ec80fbd</property>
+    <property name="shotcut:caption">waterfall ink 3.wav</property>
+    <property name="xml">was here</property>
+  </chain>
+  <chain id="chain3" out="00:06:35.960">
+    <property name="length">9900</property>
+    <property name="eof">pause</property>
+    <property name="resource">./waterfall ink 3.wav</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">8c94f27425cef1bbc69a44519ec80fbd</property>
+    <property name="shotcut:caption">waterfall ink 3.wav</property>
+    <property name="xml">was here</property>
+  </chain>
+  <chain id="chain4" out="00:06:35.960">
+    <property name="length">9900</property>
+    <property name="eof">pause</property>
+    <property name="resource">./waterfall ink 3.wav</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">8c94f27425cef1bbc69a44519ec80fbd</property>
+    <property name="shotcut:caption">waterfall ink 3.wav</property>
+    <property name="xml">was here</property>
+  </chain>
+  <chain id="chain5" out="00:06:35.960">
+    <property name="length">9900</property>
+    <property name="eof">pause</property>
+    <property name="resource">./waterfall ink 3.wav</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">8c94f27425cef1bbc69a44519ec80fbd</property>
+    <property name="shotcut:caption">waterfall ink 3.wav</property>
+    <property name="xml">was here</property>
+  </chain>
+  <chain id="chain6" out="00:06:35.960">
+    <property name="length">9900</property>
+    <property name="eof">pause</property>
+    <property name="resource">./waterfall ink 3.wav</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">8c94f27425cef1bbc69a44519ec80fbd</property>
+    <property name="shotcut:caption">waterfall ink 3.wav</property>
+    <property name="xml">was here</property>
+  </chain>
+  <chain id="chain7" out="00:06:35.960">
+    <property name="length">9900</property>
+    <property name="eof">pause</property>
+    <property name="resource">./waterfall ink 3.wav</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">8c94f27425cef1bbc69a44519ec80fbd</property>
+    <property name="shotcut:caption">waterfall ink 3.wav</property>
+    <property name="xml">was here</property>
+  </chain>
+  <chain id="chain8" out="00:06:35.960">
+    <property name="length">9900</property>
+    <property name="eof">pause</property>
+    <property name="resource">./waterfall ink 3.wav</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">8c94f27425cef1bbc69a44519ec80fbd</property>
+    <property name="shotcut:caption">waterfall ink 3.wav</property>
+    <property name="xml">was here</property>
+  </chain>
+  <chain id="chain9" out="00:06:35.960">
+    <property name="length">9900</property>
+    <property name="eof">pause</property>
+    <property name="resource">./waterfall ink 3.wav</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">8c94f27425cef1bbc69a44519ec80fbd</property>
+    <property name="shotcut:caption">waterfall ink 3.wav</property>
+    <property name="xml">was here</property>
+  </chain>
+  <playlist id="playlist1">
+    <property name="shotcut:audio">1</property>
+    <property name="shotcut:name">A1</property>
+    <blank length="00:00:00.040"/>
+    <entry producer="chain0" in="00:00:00.000" out="00:06:35.960"/>
+    <entry producer="chain1" in="00:00:00.000" out="00:06:35.960"/>
+    <entry producer="chain2" in="00:00:00.000" out="00:06:35.960"/>
+    <entry producer="chain3" in="00:00:00.000" out="00:06:35.960"/>
+    <entry producer="chain4" in="00:00:00.000" out="00:06:35.960"/>
+    <entry producer="chain5" in="00:00:00.000" out="00:06:35.960"/>
+    <entry producer="chain6" in="00:00:00.000" out="00:06:35.960"/>
+    <entry producer="chain7" in="00:00:00.000" out="00:06:35.960"/>
+    <entry producer="chain8" in="00:00:00.000" out="00:06:35.960"/>
+    <entry producer="chain9" in="00:00:00.000" out="00:06:35.960"/>
+  </playlist>
+  <tractor id="tractor0" title="Shotcut version 21.05.18" in="00:00:00.000" out="01:06:00.000">
+    <property name="shotcut">1</property>
+    <property name="shotcut:projectAudioChannels">2</property>
+    <property name="shotcut:projectFolder">0</property>
+    <property name="shotcut:scaleFactor">0.01</property>
+    <track producer="background"/>
+    <track producer="playlist0"/>
+    <track producer="playlist1" hide="video"/>
+    <transition id="transition0">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition1">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="version">0.9</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="threads">0</property>
+      <property name="disable">1</property>
+    </transition>
+    <transition id="transition2">
+      <property name="a_track">0</property>
+      <property name="b_track">2</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+  </tractor>
+</mlt>
