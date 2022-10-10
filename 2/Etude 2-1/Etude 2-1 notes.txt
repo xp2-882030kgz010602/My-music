@@ -1,0 +1,26 @@
+Etude 2/1: Tribute to Crane.
+An etude in double notes, and another etude about Wings Of Fire. Why, Icicle, why did you have to kill Crane? :(
+This was originally supposed to be Etude 1/9, between Etude 1/8 and the current Etude 1/9.
+=====
+If you don't like the tempo markings, feel free to ignore them and play the piece at some other speed.
+The same thing applies to the pedal markings in this piece.
+=====
+Etude 2-1.mid, Etude 2-1.mp3, and Etude 2-1.pdf created with MuseScore 2.2.1 from Etude 2-1.mscz with default settings (including the default soundfont)
+Etude 2-1_Zenith.mp4 created from Etude 2-1.mid with Zenith 2.1.5 using these settings:
+Resolution=720p
+Note screen time=6000
+Resource pack=xp2
+Palette=xp2
+Randomise color order=0
+crf=0
+Everything else default
+Etude 2-1.mp4 created with Shotcut 21.05.18 using Etude 2-1_Zenith.mp4, Etude 2-1.mlt, and Etude 2-1.mp3 using these settings:
+Interpolation=Nearest Neighbor
+Quality=100%
+Everything else default
+thumbnail.png created with Shotcut 21.05.18 using Etude 2-1_Zenith.mp4, Etude 2-1.mlt, and Etude 2-1.mp3 exporting at frame 1:00:46.
+=====
+Download links:
+Etude 2-1.mp4=(filehosting.org is down right now. A link will be made available when I can get access to said site again.)
+=====
+The version of Etude 2-1.mp4 on YouTube uses the first uploaded version of Etude 2-1.mscz.
