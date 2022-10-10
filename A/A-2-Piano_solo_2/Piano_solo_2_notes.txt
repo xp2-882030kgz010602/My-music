@@ -29,6 +29,5 @@ Piano_solo_2.mp4 created with Shotcut 21.05.18 using Piano_solo_2_Zenith.mp4, Pi
 Interpolation=Nearest Neighbor
 Quality=100%
 Everything else default
-thumbnail.png created with Shotcut 21.05.18 using Piano_solo_2_Zenith.mp4, Piano_solo_2.mlt, and Piano_solo_2.mp3 exporting at frame 1:55:47.
 =====
 The version of Piano_solo_2.mp4 on YouTube uses the first uploaded version of Piano_solo_2.mscz.
