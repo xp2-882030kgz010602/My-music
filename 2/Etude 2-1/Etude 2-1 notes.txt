@@ -21,6 +21,6 @@ Everything else default
 thumbnail.png created with Shotcut 21.05.18 using Etude 2-1_Zenith.mp4, Etude 2-1.mlt, and Etude 2-1.mp3 exporting at frame 1:00:46.
 =====
 Download links:
-Etude 2-1.mp4=(filehosting.org is down right now. A link will be made available when I can get access to said site again.)
+Etude 2-1.mp4=https://www.filehosting.org/file/details/16391213/Etude%202-1.mp4
 =====
 The version of Etude 2-1.mp4 on YouTube uses the first uploaded version of Etude 2-1.mscz.
