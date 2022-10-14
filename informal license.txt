@@ -7,7 +7,8 @@ It also applies to my palettes and resource packs.
 You are free to use and modify this item (music/palette/resource pack) however you want. But if you share it with someone else (places like YouTube count), you need to do the following.
 *Attach a LINK to this license. I sometimes realize that something here is unclear and need to clarify.
 An attached license won't update itself, but a link will point to the new version just fine without anyone needing to do anything.
-*Specify how to reproduce all reproducible files. If a file was generated from other files using a computer program, it is reproducible.
+*Specify how to reproduce all reproducible files that you didn't get from somewhere else. If a file was generated from other files using a computer program, it is reproducible.
 In particular, no one should have to pay for a piece of software to reproduce a file, even if they can download a copy of the file.
+*If the reproducible file came from somewhere else, provide a link with credit to that file.
 *Give free downloads to all nonreproducible files.
 *Give credit to the author whose item you're using.
