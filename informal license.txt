@@ -5,10 +5,14 @@ This license applies to my music where possible. I don't know if I can put them 
 It also applies to my palettes and resource packs.
 =====
 You are free to use and modify this item (music/palette/resource pack) however you want. But if you share it with someone else (places like YouTube count), you need to do the following.
-*Attach a LINK to this license. I sometimes realize that something here is unclear and need to clarify, or realize that I forgot to mention something and need to mention it.
-An attached license won't update itself, but a link will point to the new version just fine without anyone needing to do anything.
 *Specify how to reproduce all reproducible files that you didn't get from somewhere else. If a file was generated from other files using a computer program, it is reproducible.
 In particular, no one should have to pay for a piece of software to reproduce a file, even if they can download a copy of the file.
 *If the reproducible file came from somewhere else, provide a link with credit to that file and instructions on reproduction. Same logic with linking to this license.
 *Give free downloads to all nonreproducible files.
+
+In other words, if someone wants a copy of all the relevant files, they should be able to get one.
+
+There are a few other requirements too:
+*Attach a LINK to this license. I sometimes realize that something here is unclear and need to clarify, or realize that I forgot to mention something and need to mention it.
+An attached license won't update itself, but a link will point to the new version just fine without anyone needing to do anything.
 *Give credit to the author whose item you're using.
