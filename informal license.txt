@@ -17,3 +17,5 @@ There are a few other requirements too:
 *Attach a LINK to this license. I sometimes realize that something here is unclear and need to clarify, or realize that I forgot to mention something and need to mention it.
 An attached license won't update itself, but a link will point to the new version just fine without anyone needing to do anything.
 *Give credit to the author whose item you're using.
+=====
+It is okay to sell a sheet music book if you also provide a free download to an equivalent PDF.
