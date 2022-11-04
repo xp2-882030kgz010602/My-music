@@ -4,6 +4,7 @@ This was originally supposed to be Etude 1/9, between Etude 1/8 and the current 
 =====
 If you don't like the tempo markings, feel free to ignore them and play the piece at some other speed.
 The same thing applies to the pedal markings in this piece.
+Note that although the piece was written in 2019, the pedal markings were added in in 2022.
 =====
 Etude 2-1.mid, Etude 2-1.mp3, and Etude 2-1.pdf created with MuseScore 2.2.1 from Etude 2-1.mscz with default settings (including the default soundfont)
 Etude 2-1_Zenith.mp4 created from Etude 2-1.mid with Zenith 2.1.5 using these settings:
