@@ -1,0 +1,173 @@
+<?xml version="1.0" standalone="no"?>
+<mlt LC_NUMERIC="C" version="7.1.0" title="Shotcut version 21.05.18" producer="main_bin">
+  <profile description="automatic" width="766" height="636" progressive="1" sample_aspect_num="1" sample_aspect_den="1" display_aspect_num="383" display_aspect_den="318" frame_rate_num="60000" frame_rate_den="1000" colorspace="601"/>
+  <playlist id="main_bin">
+    <property name="xml_retain">1</property>
+  </playlist>
+  <producer id="black" in="00:00:00.000" out="00:04:31.683">
+    <property name="length">00:04:31.700</property>
+    <property name="eof">pause</property>
+    <property name="resource">0</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgba</property>
+    <property name="set.test_audio">0</property>
+  </producer>
+  <playlist id="background">
+    <entry producer="black" in="00:00:00.000" out="00:04:31.683"/>
+  </playlist>
+  <producer id="producer0" in="00:00:00.000" out="03:59:59.983">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">../../backgrounds/Loboc_river.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2022-11-11T02:28:25</property>
+    <property name="shotcut:hash">9e20063042ab42358be90b2a2baaf011</property>
+    <property name="shotcut:caption">Loboc_river.png</property>
+  </producer>
+  <playlist id="playlist0">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">V1</property>
+    <entry producer="producer0" in="00:00:00.000" out="00:04:31.683"/>
+  </playlist>
+  <chain id="chain0" out="00:04:31.683">
+    <property name="length">16302</property>
+    <property name="eof">pause</property>
+    <property name="resource">./Etude 1-1.mp3</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">dce9cd50853c0d27e91b234de72aac57</property>
+    <property name="shotcut:caption">Etude 1-1.mp3</property>
+  </chain>
+  <playlist id="playlist1">
+    <property name="shotcut:audio">1</property>
+    <property name="shotcut:name">A1</property>
+    <entry producer="chain0" in="00:00:00.000" out="00:04:31.683"/>
+  </playlist>
+  <chain id="chain1" out="00:04:44.217">
+    <property name="length">00:04:44.233</property>
+    <property name="eof">pause</property>
+    <property name="resource">./Etude 1-1_Zenith.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">87b32f0c77bcf09149e45d5085e6739c</property>
+    <property name="shotcut:caption">Etude 1-1_Zenith.mp4</property>
+    <property name="xml">was here</property>
+    <property name="ignore_points">0</property>
+    <filter id="filter0" in="00:00:09.367" out="00:04:41.050">
+      <property name="start">1</property>
+      <property name="level">1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">brightnessOpacity</property>
+      <property name="alpha">0.64</property>
+      <property name="opacity">0.64</property>
+      <property name="disable">0</property>
+    </filter>
+  </chain>
+  <playlist id="playlist2">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">V2</property>
+    <entry producer="chain1" in="00:00:09.367" out="00:04:41.050"/>
+  </playlist>
+  <chain id="chain2" out="00:04:44.217">
+    <property name="length">00:04:44.233</property>
+    <property name="eof">pause</property>
+    <property name="resource">./Etude 1-1_Zenith.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">87b32f0c77bcf09149e45d5085e6739c</property>
+    <property name="shotcut:caption">Etude 1-1_Zenith.mp4</property>
+    <property name="xml">was here</property>
+    <property name="ignore_points">0</property>
+    <filter id="filter1" in="00:00:09.367" out="00:04:41.050">
+      <property name="rect">0 572 766 64 1</property>
+      <property name="circle">0</property>
+      <property name="color">#00000000</property>
+      <property name="radius">0</property>
+      <property name="mlt_service">qtcrop</property>
+      <property name="shotcut:filter">cropRectangle</property>
+      <property name="disable">0</property>
+    </filter>
+  </chain>
+  <playlist id="playlist3">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">V3</property>
+    <entry producer="chain2" in="00:00:09.367" out="00:04:41.050"/>
+  </playlist>
+  <tractor id="tractor0" title="Shotcut version 21.05.18" in="00:00:00.000" out="00:04:31.683">
+    <property name="shotcut">1</property>
+    <property name="shotcut:projectAudioChannels">2</property>
+    <property name="shotcut:projectFolder">0</property>
+    <property name="shotcut:scaleFactor">0.0171598</property>
+    <track producer="background"/>
+    <track producer="playlist0"/>
+    <track producer="playlist1" hide="video"/>
+    <track producer="playlist2"/>
+    <track producer="playlist3"/>
+    <transition id="transition0">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition1">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="version">0.9</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="threads">0</property>
+      <property name="disable">1</property>
+    </transition>
+    <transition id="transition2">
+      <property name="a_track">0</property>
+      <property name="b_track">2</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition3">
+      <property name="a_track">0</property>
+      <property name="b_track">3</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition4">
+      <property name="a_track">1</property>
+      <property name="b_track">3</property>
+      <property name="version">0.9</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="threads">0</property>
+      <property name="disable">0</property>
+    </transition>
+    <transition id="transition5">
+      <property name="a_track">0</property>
+      <property name="b_track">4</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition6">
+      <property name="a_track">1</property>
+      <property name="b_track">4</property>
+      <property name="version">0.9</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="threads">0</property>
+      <property name="disable">0</property>
+    </transition>
+  </tractor>
+</mlt>
