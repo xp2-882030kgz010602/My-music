@@ -13,6 +13,9 @@ In particular, no one should have to pay for a piece of software to reproduce a 
 
 In other words, if someone wants a copy of all the relevant files, they should be able to get one.
 
+It is worth mentioning that if a file should be reproducible in theory, but you don't have all the information to do so (making it nonreproducible), you should still give all relevant information you do have.
+Incomplete information is better than no information at all.
+
 There are a few other requirements too:
 *Attach a LINK to this license. I sometimes realize that something here is unclear and need to clarify, or realize that I forgot to mention something and need to mention it.
 An attached license won't update itself, but a link will point to the new version just fine without anyone needing to do anything.
