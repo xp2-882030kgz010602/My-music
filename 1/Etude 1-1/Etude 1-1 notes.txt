@@ -16,13 +16,13 @@ Resource pack=River
 Palette=River
 Randomise color order=0
 crf=0
-Background image=Loboc_river.png; modified from https://commons.wikimedia.org/wiki/File:Loboc_river.png (author unknown)
+Background image=../../backgrounds/Loboc_river.png; modified from https://commons.wikimedia.org/wiki/File:Loboc_river.png (author unknown)
 Everything else default
-Etude 1-1.mp4 created with Shotcut 21.05.18 using Etude 1-1_Zenith.mp4, Etude 1-1.mlt, Etude 1-1.mp3, and ../backgrounds/Loboc_river.png using these settings:
+Etude 1-1.mp4 created with Shotcut 21.05.18 using Etude 1-1_Zenith.mp4, Etude 1-1.mlt, Etude 1-1.mp3, and ../../backgrounds/Loboc_river.png using these settings:
 Interpolation=Nearest Neighbor
 Quality=100%
 Everything else default
-thumbnail.png created with Shotcut 21.05.18 using Etude 1-1_Zenith.mp4, Etude 1-1.mlt, Etude 1-1.mp3, and ../backgrounds/Loboc_river.png exporting at frame 2:03:01.
+thumbnail.png created with Shotcut 21.05.18 using Etude 1-1_Zenith.mp4, Etude 1-1.mlt, Etude 1-1.mp3, and ../../backgrounds/Loboc_river.png exporting at frame 2:03:01.
 =====
 Download links
 Etude 1-1.mp4=https://www.filehosting.org/file/details/17696545/Etude%201-1.mp4
