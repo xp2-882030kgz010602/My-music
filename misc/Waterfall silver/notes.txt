@@ -19,7 +19,7 @@ Resource pack=xp2
 Palette=xp2
 Randomise color order=0
 crf=0
-Background image=pexels-snapwire-6832.jpg; modified from https://www.pexels.com/photo/waterfall-nature-6832/ (author unknown)
+Background image=../../backgrounds/pexels-snapwire-6832.jpg; modified from https://www.pexels.com/photo/waterfall-nature-6832/ (author unknown)
 Everything else default
 all.mp4 created with Shotcut 21.05.18 using all_Zenith.mp4, all.mlt, and all.mp3 using these settings:
 Interpolation=Nearest Neighbor
