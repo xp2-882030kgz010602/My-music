@@ -15,7 +15,7 @@ Note screen time=6000
 Resource pack=River
 Palette=River
 Randomise color order=0
-crf=0
+crf=17 (I forgot to set this to 0 apparently and didn't notice)
 Background image=../../backgrounds/Loboc_river.png; modified from https://commons.wikimedia.org/wiki/File:Loboc_river.png (author unknown)
 Everything else default
 Etude 1-1.mp4 created with Shotcut 21.05.18 using Etude 1-1_Zenith.mp4, Etude 1-1.mlt, Etude 1-1.mp3, and ../../backgrounds/Loboc_river.png using these settings:
