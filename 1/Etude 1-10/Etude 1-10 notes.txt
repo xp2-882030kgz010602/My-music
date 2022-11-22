@@ -6,7 +6,7 @@ The key difference is that while his arpeggios have four notes per group, mine o
 Just beware the last few measures. It's going to be hard to play them as quickly as the rest of the piece, but try your best.
 Of course, if you don't like the tempo markings, feel free to ignore them and play the piece at some other speed.
 =====
-Etude 1-10.mid, Etude 1-10.mp3, and Etude 1-10.pdf created with MuseScore 2.2.1 from Etude 1-10.mscz with default settings (including the default soundfont)
+Etude 1-10.mid, Etude 1-10.mp3, and Etude 1-10.pdf created with MuseScore 2.2.1 from Etude 1-10-Waterfall.mscz with default settings (including the default soundfont)
 Etude 1-10_Zenith.mp4 created from Etude 1-10.mid with Zenith 2.1.5 using these settings:
 Resolution=2900x2420
 Note screen time=6000
@@ -25,4 +25,4 @@ thumnnail-small.png created with Paint using thumbnail.png by scaling down by a 
 =====
 Download links:
 =====
-The version of Etude 1-10.mp4 on YouTube uses the first uploaded version of Etude 1-10.mscz.
+The version of Etude 1-10.mp4 on YouTube uses the first uploaded version of Etude 1-10-Waterfall.mscz.
