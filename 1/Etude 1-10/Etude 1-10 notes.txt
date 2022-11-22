@@ -24,5 +24,7 @@ thumbnail.png created with Shotcut 21.05.18 using Etude 1-10_Zenith.mp4, Etude 1
 thumnnail-small.png created with Paint using thumbnail.png by scaling down by a factor of 4.
 =====
 Download links:
+Etude 1-10.mp4=https://www.filehosting.org/file/details/19328992/Etude%201-10.mp4
+Etude 1-10_Zenith.mp4=https://www.filehosting.org/file/details/19328308/Etude%201-10_Zenith.mp4
 =====
 The version of Etude 1-10.mp4 on YouTube uses the first uploaded version of Etude 1-10-Waterfall.mscz.
