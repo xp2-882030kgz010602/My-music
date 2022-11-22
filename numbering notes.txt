@@ -6,11 +6,14 @@ A
  A/1: Piano Solo 1 (likely 2015)
  A/2: Piano Solo 2 (likely 2015)
 1
+ Etude 1/1 (2019)
  Etude 1/2 (2019)
+ Etude 1/10 (2020)
 2
  Etude 2/1 (2019)
 
 There is also the "misc" index, which means "this doesn't fit nicely with the actual indices".
 
 misc
- misc/Waterfall silver
+ misc/Waterfall silver (by silver; 2022)
+ misc/Waterfall ink (by ink; 2022)
