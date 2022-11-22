@@ -21,6 +21,7 @@ Interpolation=Nearest Neighbor
 Quality=100%
 Everything else default
 thumbnail.png created with Shotcut 21.05.18 using Etude 1-10_Zenith.mp4, Etude 1-10.mlt, Etude 1-10.mp3, and ../../backgrounds/pexels-snapwire-6832.png exporting at frame 2:34:31.
+thumnnail-small.png created with Paint using thumbnail.png by scaling down by a factor of 4.
 =====
 Download links:
 =====
