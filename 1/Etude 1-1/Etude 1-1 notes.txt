@@ -5,8 +5,6 @@ If you don't like the tempo markings, feel free to ignore them and play the piec
 The same thing applies to the pedal markings in this piece.
 I wrote this piece in 2019, but added in pedal markings in 2022.
 I have also manually turned down the velocity of the left hand notes in MuseScore from 80 to 40 (2022).
-
-https://commons.wikimedia.org/wiki/File:Loboc_river.png
 =====
 Etude 1-1.mid, Etude 1-1.mp3, and Etude 1-1.pdf created with MuseScore 2.2.1 from Etude 1-1.mscz with default settings (including the default soundfont)
 Etude 1-1_Zenith.mp4 created from Etude 1-1.mid with Zenith 2.1.5 using these settings:
