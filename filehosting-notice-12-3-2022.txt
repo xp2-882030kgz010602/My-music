@@ -1,0 +1,16 @@
+I have been using filehosting.org to host large downloads as it was the only service that let me conveniently do so for free.
+However, between 11/30/2022 and 12/3/2022, filehosting.org has been revamped, making it useless for this purpose.
+
+"We allow up to 50 files per upload and a total of 1GB of storage per user.
+Files that have not been accessed for more than 30 days will be deleted."
+
+The next best thing is Google Drive, but that would require me to keep creating new accounts due to the 15GB-per-account limit.
+
+Now, it must be noted that I don't actually need to upload these files, as they can be recreated from other files on GitHub.
+That is why I don't require uploads of those files (also since things like this can happen).
+However, I personally would like to upload said files.
+
+Given that I cannot find anything else that works like filehosting.org used to, this is what I'll do.
+The new year is coming in around 30 days. If I have not found anything better since then, I will upload to Google Drive.
+
+RIP filehosting.org (????-2022)
