@@ -19,7 +19,7 @@
   <chain id="chain0" out="00:04:47.533">
     <property name="length">17253</property>
     <property name="eof">pause</property>
-    <property name="resource">c:/Offline/MuseScore2/g/1/Etude 1-4/Etude 1-4_Zenith.mp4</property>
+    <property name="resource">./Etude 1-4_Zenith.mp4</property>
     <property name="mlt_service">avformat-novalidate</property>
     <property name="seekable">1</property>
     <property name="audio_index">-1</property>
@@ -37,7 +37,7 @@
   <chain id="chain1" out="00:04:38.417">
     <property name="length">16706</property>
     <property name="eof">pause</property>
-    <property name="resource">c:/Offline/MuseScore2/g/1/Etude 1-4/Etude 1-4.mp3</property>
+    <property name="resource">./Etude 1-4.mp3</property>
     <property name="mlt_service">avformat-novalidate</property>
     <property name="seekable">1</property>
     <property name="audio_index">0</property>
