@@ -1,0 +1,27 @@
+I wrote this piece as a joke, not understanding that parallel fourths were fine even though parallel fifths weren't,
+and not realizing that the parallel fifths thing only applied in counterpoint.
+Despite the fact that I wrote this piece as a joke, I quite like it anyways.
+I was not thinking of Chopin's Etude 25/7 at the time, but I have since realized that there are structural similarities.
+I know that there is a paper manuscript for part of this piece, BUT I do not know where it currently is.
+I may not be able to find it.
+=====
+If you don't like the tempo markings, feel free to ignore them and play the piece at some other speed.
+=====
+Etude 1-5.mid, Etude 1-5.mp3, and Etude 1-5.pdf created with MuseScore 2.2.1 from Etude 1-5.mscz with default settings (including the default soundfont)
+Etude 1-5_Zenith.mp4 created from Etude 1-5.mid with Zenith 2.1.5 using these settings:
+Resolution=720p
+Note screen time=6000
+Resource pack=xp2
+Palette=xp2
+Randomise color order=0
+crf=0
+Everything else default
+Etude 1-5.mp4 created with Shotcut 21.05.18 using Etude 1-5_Zenith.mp4, Etude 1-5.mlt, and Etude 1-5.mp3 using these settings:
+Interpolation=Nearest Neighbor
+Quality=100%
+Everything else default
+thumbnail.png created with Shotcut 21.05.18 using Etude 1-5_Zenith.mp4, Etude 1-5.mlt, and Etude 1-5.mp3 exporting at frame 1:40:31.
+=====
+Download links: None. All files fit on GitHub this time.
+=====
+The version of Etude 1-5.mp4 on YouTube uses the first uploaded version of Etude 1-5.mscz.
