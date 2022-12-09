@@ -1,23 +1,24 @@
 I started sorting my pieces into numbered sets with the 22 or so etudes that make up Etude Set 1. However, I have some older compositions, and to keep them sorted, I wanted to index them too. But it would be confusing if "Etude Set 1" didn't have index 1. To get around this, I use letters for the older compositions.
 
-Here is a list of all published pieces along with when I composed them:
+Here is a list of all published pieces along with when I composed them and what keys they're in:
 
 A
- A/1: Piano Solo 1 (likely 2015)
- A/2: Piano Solo 2 (likely 2015)
+ b  A/1: Piano Solo 1 (likely 2015)
+ e  A/2: Piano Solo 2 (likely 2015)
 1
- Etude 1/1: River (2019)
- Etude 1/2 (2019)
- Etude 1/3: Ocean Waves (2019-2020)
- Etude 1/4: Mondays (2019)
- Etude 1/5: Fourths (2019)
- Etude 1/7: March (2020)
- Etude 1/10 (2020)
+ C# Etude 1/1: River (2019)
+ e  Etude 1/2 (2019)
+ Eb Etude 1/3: Ocean Waves (2019-2020)
+ g# Etude 1/4: Mondays (2019)
+ F  Etude 1/5: Fourths (2019)
+ Eb Etude 1/7: March (2020)
+ c  Etude 1/8: Scarlet's trill (2019)
+ A  Etude 1/10: Waterfall (2020)
 2
- Etude 2/1 (2019)
+ e  Etude 2/1: Tribute to Crane (2019)
 
 There is also the "misc" index, which means "this doesn't fit nicely with the actual indices".
 
 misc
- misc/Waterfall silver (by silver; 2022)
- misc/Waterfall ink (by ink; 2022)
+ C# misc/Waterfall silver (by silver; 2022)
+ C# misc/Waterfall ink (by ink; 2022)
