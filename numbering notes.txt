@@ -1,6 +1,10 @@
-I started sorting my pieces into numbered sets with the 22 or so etudes that make up Etude Set 1. However, I have some older compositions, and to keep them sorted, I wanted to index them too. But it would be confusing if "Etude Set 1" didn't have index 1. To get around this, I use letters for the older compositions.
+I started sorting my pieces into numbered sets with the 22 or so etudes that make up Etude Set 1.
+However, I have some older compositions, and to keep them sorted, I wanted to index them too.
+But it would be confusing if "Etude Set 1" didn't have index 1.
+To get around this, I use letters for the older compositions.
 
-Here is a list of all published pieces along with when I composed them and what keys they're in:
+Here is a list of all published pieces along with when I composed them and what keys they're in.
+If I've made revisions, those times are appended, separated by a | character.
 
 A
  b  A/1: Piano Solo 1 (likely 2015)
@@ -11,11 +15,12 @@ A
  Eb Etude 1/3: Ocean Waves (2019-2020)
  g# Etude 1/4: Mondays (2019)
  F  Etude 1/5: Fourths (2019)
- g# Etude 1/6, after Chopin (2019)
- Eb Etude 1/7: March (2020)
+ g# Etude 1/6, after Chopin (2019|2022)
+ Eb Etude 1/7: March (2020|2022)
  c  Etude 1/8: Scarlet's trill (2019)
  A  Etude 1/10: Waterfall (2020)
  b  Etude 1/11: Rush H (2020)
+ D  Etude 1/12: Bach study 1 (2019)
 2
  e  Etude 2/1: Tribute to Crane (2019)
 
