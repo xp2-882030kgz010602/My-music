@@ -1,5 +1,5 @@
 This is a study off of Bach's C minor prelude from his WTC book 1 for the right hand alone.
-I originally wrote this in 2019, but the 2019 version is basically the original version on one hand, with basically nothing from me.
+I originally wrote this in 2019, but the 2019 version is basically the original version on one hand, with basically nothing from me. It can be found at ./Etude 1-13 2019.mscz.
 This is why I have revised this etude in 2022.
 Note how here, the right hand goes back and forth between the "melody" and "bass" notes.
 =====
