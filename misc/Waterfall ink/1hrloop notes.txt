@@ -15,5 +15,9 @@ Download links
 1hrloop.mp4=https://www.filehosting.org/file/details/16521401/1hrloop.mp4
 waterfall ink 3.wav=https://www.filehosting.org/file/details/16391525/waterfall%20ink%203.wav
 =====
+Updated download links
+1hrloop.mp4=https://drive.google.com/file/d/1mNpF1SpbwdFsqEUTixQB_sWlkP_haL6J/view?usp=share_link
+waterfall ink 3.wav=https://drive.google.com/file/d/1hN0NVnWDMZV-Vf2uVb-NLC2-URXXN2EK/view?usp=share_link
+=====
 The version of 1hrloop.mp4 on YouTube uses the first uploaded version of-honestly, I'm not sure.
 There isn't even a midi or mscz behind this one; it's all mp3 here.
