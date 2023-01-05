@@ -29,10 +29,16 @@ Everything else default
 The background appears to have gotten jpg'd. Oops. Try the PNG instead.
 Note to self: Don't use JPG images as backgrounds. They will change on you.
 =====
-Download links
+Download links:
 all.mp4=https://www.filehosting.org/file/details/16269787/all.mp4
 all_Zenith.mp4=https://www.filehosting.org/file/details/16269788/all_Zenith.mp4
 resources/V2.wav=https://www.filehosting.org/file/details/16269789/V2.wav
 resources/V3.wav=https://www.filehosting.org/file/details/16269790/V3.wav
+=====
+Updated download links:
+all.mp4=https://drive.google.com/file/d/186a7z3hOC8NesmzcPn93c1HiKlvgbl-X/view?usp=share_link
+all_Zenith.mp4=https://drive.google.com/file/d/1T05LgB5cysTEFWPBaFk5kUMG3EE63YP8/view?usp=share_link
+resources/V2.wav=https://drive.google.com/file/d/1yjbycPib_OTPbnPo4TdqJEKwCcrkal9C/view?usp=share_link
+resources/V3.wav=https://drive.google.com/file/d/1ZiMKLNubyBxV8MH3qSkLYb9HcBc7_qXN/view?usp=share_link
 =====
 The version of all.mp4 on YouTube uses the first uploaded version of all.mscz.

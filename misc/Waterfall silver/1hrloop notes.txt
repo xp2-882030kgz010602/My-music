@@ -7,5 +7,8 @@ Everything else default
 Download links:
 1hrloop.mp4=https://www.filehosting.org/file/details/17706058/1hrloop.mp4
 =====
+Updated download links:
+1hrloop.mp4=https://drive.google.com/file/d/1sSmexiyaLwFYpns80IOwm42hYGSTo957/view?usp=share_link
+=====
 The version of 1hrloop.mp4 on YouTube uses the first uploaded version of-honestly, I'm not sure.
 There isn't even a midi or mscz behind this one; it's all mp3 here.
