@@ -1,0 +1,29 @@
+I am terrible at writing essays, so when I was given an essay assignment back in 9th grade, this is how I felt about it.
+This etude is written for the right hand alone.
+While the beginning is in D major, I feel like the piece overall is in D minor.
+The 2019 version is at ./Etude 1-15 2019.mscz. I felt like it could be improved a little, so I revised it in 2022.
+Here, it is worth noting that this piece is kind of similar to Liszt's Mazeppa etude.
+=====
+If you don't like the tempo markings, feel free to ignore them and play the piece at some other speed.
+=====
+Etude 1-15.mid, Etude 1-15.mp3, and Etude 1-15.pdf created with MuseScore 2.2.1 from Etude 1-15.mscz with default settings (including the default soundfont)
+Etude 1-15_Zenith.mp4 created from Etude 1-15.mid with Zenith 2.1.5 using these settings:
+Resolution=2400x1802
+Note screen time=6000
+Resource pack=xp2
+Palette=xp2
+Randomise color order=0
+crf=0
+Background image=../../backgrounds/books.png; modified from https://goodstock.photos/wp-content/uploads/2018/09/Stacks-of-Used-Books.jpg by unknown
+Everything else default
+Etude 1-15.mp4 created with Shotcut 21.05.18 using Etude 1-15_Zenith.mp4, Etude 1-15.mlt, and Etude 1-15.mp3 using these settings:
+Interpolation=Nearest Neighbor
+Quality=100%
+Everything else default
+thumbnail.png created with Shotcut 21.05.18 using Etude 1-15_Zenith.mp4, Etude 1-15.mlt, and Etude 1-15.mp3 exporting at frame 4:22:31.
+=====
+Download links:
+Etude 1-15.mp4=https://drive.google.com/file/d/1yjnYAO8hPv8MMdxGMHH3O1vsq6K6QpuN/view?usp=share_link
+Etude 1-15_Zenith.mp4=https://drive.google.com/file/d/1qMNert-yAkOGiY0445wxYJkp8U7g8qy8/view?usp=share_link
+=====
+The version of Etude 1-15.mp4 on YouTube uses the first (correction: second) uploaded version of Etude 1-15.mscz.
