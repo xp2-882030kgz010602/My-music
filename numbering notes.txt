@@ -5,6 +5,7 @@ To get around this, I use letters for the older compositions.
 
 Here is a list of all published pieces along with when I composed them and what keys they're in.
 If I've made revisions, those times are appended, separated by a | character.
+Since a lot of these have been written so long ago, I cannot guarantee that all this information is accurate.
 
 A
  b  A/1: Piano Solo 1 (likely 2015)
@@ -24,6 +25,8 @@ A
  c  Etude 1/13: Bach study 2 (2019|2022)
  d  Etude 1/14: Bach study 3 (2019|2022)
  d  Etude 1/15: Essay (2019|2022-2023)
+ Ab Etude 1/16: Dragonflight (2019|2023)
+ C  Etude 1/18: Fifths (2020|2023)
 2
  e  Etude 2/1: Tribute to Crane (2019)
 
