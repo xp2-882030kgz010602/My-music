@@ -1,0 +1,24 @@
+Slightly revised from 2020 version. Wrote this as a joke "since parallel fifths were bad".
+=====
+If you don't like the tempo markings, feel free to ignore them and play the piece at some other speed.
+=====
+Etude 1-18.mid, Etude 1-18.mp3, and Etude 1-18.pdf created with MuseScore 2.2.1 from Etude 1-18.mscz with default settings (including the default soundfont)
+Etude 1-18_Zenith.mp4 created from Etude 1-18.mid with Zenith 2.1.5 using these settings:
+Resolution=720p
+Note screen time=6000
+Resource pack=xp2
+Palette=xp2
+Randomise color order=0
+crf=0
+Everything else default
+Etude 1-18.mp4 created with Shotcut 21.05.18 using Etude 1-18_Zenith.mp4, Etude 1-18.mlt, and Etude 1-18.mp3 using these settings:
+Interpolation=Nearest Neighbor
+Quality=100%
+Everything else default
+thumbnail.png created with Shotcut 21.05.18 using Etude 1-18_Zenith.mp4, Etude 1-18.mlt, and Etude 1-18.mp3 exporting at frame ?.
+=====
+Download links:
+Etude 1-18_Zenith.mp4=https://drive.google.com/file/d/1w-ssGGE7qR3JxmVP9gYXO2-hmFCfgjFB/view?usp=share_link
+Etude 1-18.mp4=https://drive.google.com/file/d/1wH1XHBjlDdMN4yVWOUivIjBUaPr5h2-g/view?usp=share_link
+=====
+The version of Etude 1-18.mp4 on YouTube uses the first uploaded version of Etude 1-18.mscz.
