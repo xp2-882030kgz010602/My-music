@@ -19,7 +19,7 @@ Etude 1-19.mp4 created with Shotcut 21.05.18 using Etude 1-19_Zenith.mp4, Etude 
 Interpolation=Nearest Neighbor
 Quality=100%
 Everything else default
-thumbnail.png created with Shotcut 21.05.18 using Etude 1-19_Zenith.mp4, Etude 1-19.mlt, and Etude 1-19.mp3 exporting at frame ?.
+thumbnail.png created with Shotcut 21.05.18 using Etude 1-19_Zenith.mp4, Etude 1-19.mlt, and Etude 1-19.mp3 exporting at frame 2:24:01.
 =====
 Download links:
 Etude 1-19.mp4=https://drive.google.com/file/d/1lzWPCJ5j96o5DMSllGD995YNQsnBpdS0/view?usp=sharing
