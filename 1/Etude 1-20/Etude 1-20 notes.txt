@@ -23,5 +23,7 @@ Everything else default
 thumbnail.png created with Shotcut 21.05.18 using Etude 1-20_Zenith.mp4, Etude 1-20.mlt, and Etude 1-20.mp3 exporting at frame 2:56:58.
 =====
 Download links:
+Etude 1-20 Zenith.mp4=https://drive.google.com/file/d/16dw1dJ656vnF2eM5_Fg9i3Tc4dJI4LZK/view?usp=drive_link
+Etude 1-20.mp4 https://drive.google.com/file/d/1mfMk_5_T1VuVE6Nzcem_HdJsZTUCsIXz/view?usp=drive_link
 =====
 The version of Etude 1-20.mp4 on YouTube uses the first uploaded version of Etude 1-20.mscz.
