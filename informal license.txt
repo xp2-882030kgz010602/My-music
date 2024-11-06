@@ -1,24 +1,35 @@
-This is an informal license. It won't be exact. I don't like that it's not exact, but when I try to make it exact, it turns into purple prose.
-This license is written according to my ideals.
-=====
-This license applies to my music where possible. I don't know if I can put them on arrangements of modern pieces.
-It also applies to my palettes and resource packs.
-=====
-You are free to use and modify this item (music/palette/resource pack) however you want. But if you share it with someone else (places like YouTube count), you need to do the following.
-*Specify how to reproduce all reproducible files that you didn't get from somewhere else. If a file was generated from other files using a computer program, it is reproducible.
-Be as specific as possible. Tell us what software was used, and what version was used.
-In particular, no one should have to pay for a piece of software to reproduce a file, even if they can download a copy of the file.
-*If the reproducible file came from somewhere else, provide a link with credit to that file and instructions on reproduction. Same logic with linking to this license.
-*Give free downloads to all nonreproducible files.
+I once again felt like rewriting this because I felt like I wasn't clear enough the last time.
 
-In other words, if someone wants a copy of all the relevant files, they should be able to get one.
+I am not a lawyer, and cannot guarantee that this license covers all edge cases and things of that nature.
+If you have any questions, just open an issue on this GitHub repo and ask.
 
-It is worth mentioning that if a file should be reproducible in theory, but you don't have all the information to do so (making it nonreproducible), you should still give all relevant information you do have.
-Incomplete information is better than no information at all.
+Having gone through intense pain trying to transcribe Freedom Dive, I do not want any such pain to be inflicted by my music.
+Thus, I have a few simple requirements to make sure that this won't happen.
 
-There are a few other requirements too:
-*Attach a LINK to this license. I sometimes realize that something here is unclear and need to clarify, or realize that I forgot to mention something and need to mention it.
-An attached license won't update itself, but a link will point to the new version just fine without anyone needing to do anything.
-*Give credit to the author whose item you're using.
-=====
-It is okay to sell a sheet music book if you also provide a free download to an equivalent PDF.
+If you use my music to make something else, you must do the following:
+
+1. If you make a file from other files, you must describe exactly how you did so (programs used, settings, etc.),
+and you must provide all of these "other files" for free which themselves aren't generated. These files may not be obfuscated.
+For "other files" that came from somewhere else, you must link to that "somewhere else", and give credit.
+If I use file A to make file C, then use file B and file C to make file D, I must provide files A and B,
+but I do not have to provide files C and D, since both C and D were made from other files.
+Your process cannot use paid software. Some people simply do not have the means to pay,
+and paid software in the process would prevent them from following your process.
+Your process cannot use free trials of paid software,
+because your process would then be unusable once the free trial expired.
+You may not obfuscate files, because obfuscation makes said files harder to work with.
+
+2. You must use this license on your "something else", specifically by linking back here:
+https://github.com/xp2-882030kgz010602/My-music/blob/main/informal%20license.txt
+This clause serves twofold.
+One: By requiring this license to be used on derivative works,
+we can guarantee that second-order derivative works and higher remain accessible
+under the protections of the first clause.
+Two: By requiring this license to be linked to instead of copied,
+this means that you do not have to update your copy of the license
+whenever I update this license.
+
+3. This is less of a *requirement*, and more of a *note*.
+Agreement to this license implies agreement to future versions of this license,
+but **only** if the future version of this license clarifies something or patches loopholes.
+If I "turn evil" and this license becomes properietary, your agreement is **not** implied.
