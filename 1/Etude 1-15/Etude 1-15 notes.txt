@@ -23,8 +23,4 @@ Everything else default
 thumbnail.png created with Shotcut 21.05.18 using Etude 1-15_Zenith.mp4, Etude 1-15.mlt, and Etude 1-15.mp3 exporting at frame 4:22:31.
 thumnnail-small.png created with Paint using thumbnail.png by scaling down by a factor of 2.
 =====
-Download links:
-Etude 1-15.mp4=https://drive.google.com/file/d/1yjnYAO8hPv8MMdxGMHH3O1vsq6K6QpuN/view?usp=share_link
-Etude 1-15_Zenith.mp4=https://drive.google.com/file/d/1qMNert-yAkOGiY0445wxYJkp8U7g8qy8/view?usp=share_link
-=====
 The version of Etude 1-15.mp4 on YouTube uses the first uploaded version of Etude 1-15.mscz.
