@@ -21,10 +21,4 @@ Quality=100%
 Everything else default
 thumbnail.png created with Shotcut 21.05.18 using Etude 1-12_Zenith.mp4, Etude 1-12.mlt, and Etude 1-12.mp3 exporting at frame 57.01.
 =====
-Download links:
-See https://github.com/xp2-882030kgz010602/My-music/blob/main/filehosting-notice-12-3-2022.txt for information.
-=====
-Updated download links:
-Etude 1-12.mp4=https://drive.google.com/file/d/10o1wVDOA2Y4ie5QX_wLuaG6_VDKU0D5E/view?usp=share_link
-=====
 The version of Etude 1-12.mp4 on YouTube uses the first uploaded version of Etude 1-12.mscz.

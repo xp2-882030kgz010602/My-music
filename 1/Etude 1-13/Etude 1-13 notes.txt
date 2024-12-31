@@ -20,7 +20,4 @@ Quality=100%
 Everything else default
 thumbnail.png created with Shotcut 21.05.18 using Etude 1-13_Zenith.mp4, Etude 1-13.mlt, and Etude 1-13.mp3 exporting at frame 1:00:01.
 =====
-Download links:
-None. All the files fit on GitHub.
-=====
 The version of Etude 1-13.mp4 on YouTube uses the first uploaded version of Etude 1-13.mscz.

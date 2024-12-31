@@ -22,12 +22,4 @@ Quality=100%
 Everything else default
 thumbnail.png created with Shotcut 21.05.18 using Etude 1-1_Zenith.mp4, Etude 1-1.mlt, Etude 1-1.mp3, and ../../backgrounds/Loboc_river.png exporting at frame 2:03:01.
 =====
-Download links:
-Etude 1-1.mp4=https://www.filehosting.org/file/details/17696545/Etude%201-1.mp4
-Etude 1-1_Zenith.mp4=https://www.filehosting.org/file/details/17696781/Etude%201-1_Zenith.mp4
-=====
-Updated download links:
-Etude 1-1.mp4=https://drive.google.com/file/d/1RycMok5e5QoL80wXWSvsC6gvR_hIzdcf/view?usp=share_link
-Etude 1-1_Zenith.mp4=https://drive.google.com/file/d/1bcCXBlF_m7ZAp1M-KIq8LsEztRg52hOY/view?usp=share_link
-=====
 The version of Etude 1-1.mp4 on YouTube uses the first uploaded version of Etude 1-1.mscz.

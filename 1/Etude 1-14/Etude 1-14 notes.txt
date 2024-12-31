@@ -21,7 +21,4 @@ thumbnail.png created with Shotcut 21.05.18 using Etude 1-14_Zenith.mp4, Etude 1
 
 Interpretation example.pdf created with MuseScore 2.2.1 from Interpretation example.mscz with default settings.
 =====
-Download links:
-None. All the files fit on GitHub.
-=====
 The version of Etude 1-14.mp4 on YouTube uses the first (correction: second) uploaded version of Etude 1-14.mscz.

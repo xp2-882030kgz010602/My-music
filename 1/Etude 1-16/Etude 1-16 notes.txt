@@ -18,8 +18,4 @@ Quality=100%
 Everything else default
 thumbnail.png created with Shotcut 21.05.18 using Etude 1-16_Zenith.mp4, Etude 1-16.mlt, and Etude 1-16.mp3 exporting at frame 1:21:01.
 =====
-Download links:
-Etude 1-16.mp4=https://drive.google.com/file/d/1MC19Bgpzi7wQQ4osDOOv026N5MUVvH2F/view?usp=share_link
-Etude 1-16_Zenith.mp4=https://drive.google.com/file/d/1ZLSEtgN4nymNMXBxZmfRAVeP30nrtwvw/view?usp=share_link
-=====
 The version of Etude 1-16.mp4 on YouTube uses the first uploaded version of Etude 1-16.mscz.
