@@ -24,12 +24,4 @@ Everything else default
 thumbnail.png created with Shotcut 21.05.18 using Etude 1-3_Zenith.mp4, Etude 1-3.mlt, Etude 1-3.mp3, and ../../backgrounds/waves.png exporting at frame 4:23:16.
 thumnnail-small.png created with Paint using thumbnail.png by scaling down by a factor of 2.
 =====
-Download links:
-Etude 1-3.mp4=https://www.filehosting.org/file/details/19336116/Etude%201-3.mp4
-Etude 1-3_Zenith.mp4=https://www.filehosting.org/file/details/19336091/Etude%201-3_Zenith.mp4
-=====
-Updated download links:
-Etude 1-3.mp4=https://drive.google.com/file/d/1cp5tnyTtH8_i1_6JM23SlLUQ_kYgWxZG/view?usp=share_link
-Etude 1-3_Zenith.mp4=https://drive.google.com/file/d/1lCecEQ1uBnmnSDbM6pY74vhihxQnkVVV/view?usp=share_link
-=====
 The version of Etude 1-3.mp4 on YouTube uses the first uploaded version of Etude 1-3.mscz.
