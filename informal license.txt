@@ -32,4 +32,4 @@ whenever I update this license.
 3. This is less of a *requirement*, and more of a *note*.
 Agreement to this license implies agreement to future versions of this license,
 but **only** if the future version of this license clarifies something or patches loopholes.
-If I "turn evil" and this license becomes properietary, your agreement is **not** implied.
+If I "turn evil" and this license becomes proprietary, your agreement is **not** implied.
